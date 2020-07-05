@@ -1,8 +1,3 @@
-
-Hola!
-
-My name is Matt and I'm from Philly, PA. I earned my Bachelor’s Degree of Computer Science in 2018 from West Chester University of Pennsylvania. Prior to college I spent most of my time from 10 - 18 as an apprentice in a relative’s Contracting company. Weekends and summers were spent working to help support the family. 
-
 ## West Chester University
 During college I was an average student at best. I spent more time relaxing and playing video games than I did in the library; I was never good at studying. I managed to graduate with a 3.2 GPA but failed to have any internships. No internships was the result of me falling in love with VR during my junior year. A friend and I started embarking on a monumental contractor VR app called Walls using the [Oculus Rift](https://www.oculus.com/) and [Unity](https://unity.com/) that ultimately died off near graduation.
 
