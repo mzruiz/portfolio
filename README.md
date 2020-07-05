@@ -6,33 +6,14 @@ I no longer specialize in electrical outlets and now spend my time building mobi
 
 To learn how I got to this point, please checkout my [about](https://github.com/chooch620/portfolio/blob/master/about.md) section. 
 
-[tp](#teenpros)
+### Table of Contents
 
-l
-l
-l
-l
-l
-l
-l
+1. [Projects](#projects)
+    * [TeenPros](#teenpros)
 
-l
-l
-l
-l
-l
-l
-l
+# Projects
 
-l
-l
-l
-l
-l
-l
-l
-
-## TeenPros
+### TeenPros
 While working at Revature I spent what little free time I had working on [TeenPros](teenprofessionals.com), which has reduced the cost of local professionals by up to 80%. This mobile platform consists of two iOS applications that work together to provide a handyman app. These apps connect homeowners who need help and young people who want to work. 
 
 
