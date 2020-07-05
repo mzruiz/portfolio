@@ -14,8 +14,10 @@ To learn how I got to this point, please checkout my [about](https://github.com/
 # Projects
 
 ### TeenPros
-While working at Revature I spent what little free time I had working on [TeenPros](teenprofessionals.com), which has reduced the cost of local professionals by up to 80%. This mobile platform consists of two iOS applications that work together to provide a handyman app. These apps connect homeowners who need help and young people who want to work. 
+[TeenPros](teenprofessionals.com) has reduced the cost of local professionals by up to 80%. This mobile platform consists of two iOS applications, TeenPros: Requester and TeenPros: Worker, that work together to connect homeowners who need help and young people who want to work. 
 
+#### V1
+Initially, these apps were built using **Swift** and **Firebase**. There were two developers: myself and a friend Dan. We had weekly sprints for the 15 months up to our March 2020 launch and have since moved them to bi-weekly. We used Github to manage our issues and source code and utilized Asana to handle sprint planning/execution/retrospects. Neither of us had any mobile experience going into this and 
 
 
 
