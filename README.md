@@ -48,7 +48,7 @@ Initially, these apps were built using **Swift** and **Firebase**. There were tw
 
 
 ## BoxBets
-[BoxBets](boxbetsapp.com) is revolutionizing your betting experience. Track, share, and keep your bets going with our mobile application. We focus on what makes daily-competition among loved-ones so great - and that's raising the stakes.
+[BoxBets](https://boxbetsapp.com) is revolutionizing your betting experience. Track, share, and keep your bets going with our mobile application. We focus on what makes daily-competition among loved-ones so great - and that's raising the stakes.
 
 BoxBets is social media platform that supports:
 * Posting images/videos,
