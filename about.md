@@ -1,5 +1,5 @@
 ## West Chester University
-During college I was an average student at best. I spent more time relaxing and playing video games than I did in the library; I was never good at studying. I managed to graduate with a 3.2 GPA but failed to have any internships. No internships was the result of me falling in love with VR during my junior year. A friend and I started embarking on a monumental contractor VR app called Walls using the [Oculus Rift](https://www.oculus.com/) and [Unity](https://unity.com/) that ultimately died off near graduation.
+During college I was an average student at best. I spent more time relaxing and playing video games than I did in the library; I was never good at studying. I managed to graduate with a 3.2 GPA but failed to have any internships. 
 
 ## Corporate Salesforce Trainer at Revature
 After graduation, I was without any glimspe of a job offer. I had begun Ubering and was getting ready to make the transition back to manual labor. Luckily for me I heard back from [Revature](revature.com). Like thousands of others, Revature's bootcamp gave me the platform I needed to enter the Software Engineering field as a Salesforce Developer. I finished at the top of my class and was offered an internal position to become a Corporate Trainer.
