@@ -1,3 +1,11 @@
+## Background
+
+I come from a rather poor family. My parents were better off than theirs but it wasn't always easy. I was raised by a single mother who was a police officer in Philadelphia. She worked all the time. 
+
+That meant I had to grow up. 
+
+I started working around 10 years old at my uncle's construction company and kept doing so through college. It started off as mowing lawns but ended with full(mostly-full) control over jobs worth up to $10000 and up to 3-4 workers at a time. I don't miss that life but it did teach me how to work - and work efficiently.
+
 ## West Chester University
 During college I was an average student at best. I spent more time relaxing and playing video games than I did in the library; I was never good at studying. I managed to graduate with a 3.2 GPA but failed to have any internships. 
 
@@ -6,12 +14,20 @@ After graduation, I was without any glimspe of a job offer. I had begun Ubering 
 
 Within 6 months I became one of Revature's top Corporate Trainers. Being a Salesforce Trainer required working around the clock to ensure my team was successful and our clients were happy. Along with a great team, we were able to completely restructure the Salesforce curriculum to ensure a [successful](https://www.linkedin.com/posts/revature_revature-becomes-a-trailhead-academy-authorized-activity-6668154566971797505-9cKd) partnership with Salesforce - representing our team at [Dreamforce](https://www.linkedin.com/posts/matthew-ruiz-099253116_revature-activity-6600111401044369409-PdsE) both on the sales-floor and in client meetings.
 
-After 18 months, I had successfully guided over 100 college graduates through a 10-week coding bootcamp. Many of which are mid-senior developers at companies such as Accenture, Deloitte, Infosys, Cognizant. 
+After 18 months, I had successfully guided over 100 college graduates through a 10-week coding bootcamp. Many of which are mid-senior developers at companies such as Accenture, Deloitte, Infosys, Cognizant, and more. 
+
+In January 2020 I left Revature to find a position with more growth potential. I was strained by tenure and decided it was best elsewhere.
 
 ## Mobile Development
-Launching [TeenPros](teenprofessionals.com) revealed that my passion lies in the mobile-space. In January 2020 I left Revature to work full-time on shifting my career from Salesforce
+After a few rounds of interviews at firms around DC I realized that my passion was not in Salesforce. My heart was in the mobile space. That's because while I was working for Revature, I had been churning out two mobile apps with a friend Dan.
+
+### TeenPros
+Launching [TeenPros](teenprofessionals.com) revealed that my passion lies in the mobile-space. I see it as something that allows you to go from idea to product with just yourself. You don't need supply chains or any of that. Just dedication.  
+
+If we were to give titles for sake of giving titles, Dan would be CEO and I would be CTO. We worked together for 18 months to deliver these apps. I had some formal training from Revature so I led most of the technical decisions but it was a team effort. We were both learning mobile development at the time.
+
+
 Since then, I've been working on React Native for about 80+ hours a week. No joke. [BoxBets](boxbetsapp.com)
 
-## Background
 
 
