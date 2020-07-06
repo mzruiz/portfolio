@@ -24,10 +24,16 @@ After a few rounds of interviews at firms around DC I realized that my passion w
 ### TeenPros
 Launching [TeenPros](teenprofessionals.com) revealed that my passion lies in the mobile-space. I see it as something that allows you to go from idea to product with just yourself. You don't need supply chains or any of that. Just dedication.  
 
-If we were to give titles for sake of giving titles, Dan would be CEO and I would be CTO. We worked together for 18 months to deliver these apps. I had some formal training from Revature so I led most of the technical decisions but it was a team effort. We were both learning mobile development at the time.
+If we were to give titles for sake of giving titles, Dan would be CEO and I would be CTO. This is his baby so he was the one spearheading the effort. We worked together for 18 months to deliver these apps. I had some formal training from Revature so I led most of the technical decisions but it was a team effort. We were both learning mobile development at the time.
 
+We launched TeenPros in March 2020 and have serviced a few dozen users in the South Jersey area.
 
-Since then, I've been working on React Native for about 80+ hours a week. No joke. [BoxBets](boxbetsapp.com)
+Version 2 is currently being built in React Native so that we may service both Android and iOS users. Likewise, the transition to Web will be less expensive.
 
+### BoxBets
+
+Since quitting Revature, I have also been working on [BoxBets](boxbetsapp.com). BoxBets was a game friends and I played in college. Mobile development once again has allowed me to share that experience with the world.
+
+I'm about 80% complete and aim to release in September; we're going to target a Philadelphia-area launch.
 
 
