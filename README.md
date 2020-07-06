@@ -11,6 +11,7 @@ To learn how I got to this point, please checkout my [about](https://github.com/
 - [Projects](#projects)
   - [TeenPros](#teenpros)
   - [BoxBets](#boxbets)
+  - [AYF Mobile](#ayf-mobile)
 
 # Projects
 
@@ -51,7 +52,8 @@ Initially, these apps were built using **Swift** and **Firebase**. There were tw
 [BoxBets](https://boxbetsapp.com) is revolutionizing your betting experience. Track, share, and keep your bets going with our mobile application. We focus on what makes daily-competition among loved-ones so great - and that's raising the stakes.
 
 BoxBets is social media platform that supports:
-* Posting images/videos,
+
+* Posting images, videos and live streams,
 * User profiles,
 * Following other users,
 * Liking/Commenting/Sharing,
@@ -76,3 +78,13 @@ BoxBets is social media platform that supports:
 * Firebase
 * Node.js/Firebase Cloud Functions(FCF)
 * Stripe
+
+## AYF Mobile
+
+In May of 2020 I started working with the league administrator of the American Youth Football League in Panama. AYF has risen to become the #1 youth football league in the country.
+
+AYF Mobile is broken into two applications: one for the user and one for league administrators. Due to COVID-19, the release of these applications have been pushed back to the start of 2021.
+
+AYF is built using **React Native**, **TypeScript**, and **Firebase**.
+
+Source code can be found [here](https://github.com/trouthouse-tech/ayf-mobile).
