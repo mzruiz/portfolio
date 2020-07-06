@@ -12,6 +12,7 @@ To learn how I got to this point, please checkout the [about](https://github.com
   - [TeenPros](#teenpros)
   - [BoxBets](#boxbets)
   - [AYF Mobile](#ayf-mobile)
+  - [Open Source](#open-source)
 
 # Projects
 
@@ -88,3 +89,14 @@ AYF Mobile is broken into two applications: one for the user and one for league 
 AYF is built using **React Native**, **TypeScript**, and **Firebase**.
 
 Source code can be found [here](https://github.com/trouthouse-tech/ayf-mobile).
+
+## Open Source
+
+I don't have much time to commit(lol) to much community-driven open sourced projects. It's something that intimidated me for quite some time. But now that I've created a few npm modules myself, it's a lot more appealing.
+
+The beautiful part of React Native to me is how much logic can be shared if you really spend the time to think about the execution. From dropdowns to buttons, so much of it is reusable. When you add **Jest**, **ESLint**, and **CircleCI** to the mix, errors are caught early in the deployment process.
+
+Here are some of the npm modules I've used to share logic across various projects:
+
+* [tht-buttons](https://www.npmjs.com/package/tht-buttons) contains common React Native buttons written in TypeScript
+* [tht-firebase-api-wrappers](https://www.npmjs.com/package/tht-firebase-api-wrappers) contains logic commonly used when interacting with Firebase such as creating and retrieving documents
