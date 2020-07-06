@@ -2,9 +2,9 @@ Hola!
 
 My name is Matt and I'm from Philly, PA. I earned my Bachelor’s Degree of Computer Science in 2018 from West Chester University of Pennsylvania. Prior to college I spent weekends and summers as an apprentice in a relative’s Contracting company. I've always enjoyed working.
 
-I no longer specialize in electrical outlets and now spend my time building mobile apps with React Native, JavaScript, TypeScript, Swift, Firebase, and more. I hope to use my experience as a Salesforce Developer/Trainer to push the boundaries of mobile development.  
+I no longer specialize in electrical outlets and now spend my time building mobile apps with React Native, JavaScript, TypeScript, Swift, Firebase, and Salesforce.
 
-To learn how I got to this point, please checkout my [about](https://github.com/chooch620/portfolio/blob/master/about.md) section.
+To learn how I got to this point, please checkout the [about](https://github.com/chooch620/portfolio/blob/master/about.md) section.
 
 ### Table of Contents
 
@@ -21,13 +21,13 @@ To learn how I got to this point, please checkout my [about](https://github.com/
 
 Currently, TeenPros services a few dozen users in the South Jersey area.
 
-Initially, these apps were built using **Swift** and **Firebase**. There were two developers: myself and a friend Dan. We had weekly sprints for the 15 months up to our March 2020 launch and have since moved them to bi-weekly. We used **Github** to manage our issues and source code and utilized **Asana** to handle sprint planning/execution/retrospects. Neither of us had any mobile experience going into this and are happy with the MVP.
+Initially, these apps were built using **Swift** and **Firebase**. There were two developers: myself and a friend Dan. We had weekly sprints for the 15 months up to our March 2020 launch and have since moved them to bi-weekly. We use **Github** to manage our issues and source code and utilize **Asana** to handle sprint planning/execution/retrospects.
 
 **Tools**
 * Swift
   * We followed the [MVC Design Pattern](https://developer.apple.com/library/archive/documentation/General/Conceptual/CocoaEncyclopedia/Model-View-Controller/Model-View-Controller.html) set forth by Apple.
 * Xcode
-  * Project security, configuration, builds, testing, and development were done using the Xcode IDE (not like there's a choice).
+  * Project configuration, builds, testing, and development were done using the Xcode IDE (not like there's a choice).
 * CocoaPods
   * Third-party applications were leveraged using the [Cocoapods](https://cocoapods.org/) dependency manager.
 * MapBox
