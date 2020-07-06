@@ -6,6 +6,8 @@ I no longer specialize in electrical outlets and now spend my time building mobi
 
 To learn how I got to this point, please checkout the [about](https://github.com/chooch620/portfolio/blob/master/about.md) section.
 
+Likewise, [here](https://docs.google.com/document/d/1HPohaLvAZwtpnLEHIy8MkCMQF1bh9as3yxEvGsLQNBY/edit?usp=sharing) is a link to my resume.
+
 ### Table of Contents
 
 - [Projects](#projects)
