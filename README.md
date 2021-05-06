@@ -13,7 +13,6 @@ Likewise, [here](https://docs.google.com/document/d/1HPohaLvAZwtpnLEHIy8MkCMQF1b
 - [Projects](#projects)
   - [TeenPros](#teenpros)
   - [BoxBets](#boxbets)
-  - [AYF Mobile](#ayf-mobile)
   - [Open Source](#open-source)
 
 # Projects
