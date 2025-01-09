@@ -4,7 +4,7 @@ I come from a rather poor family. My parents were better off than theirs but it 
 
 That meant I had to grow up. 
 
-I started working around 10 years old at my uncle's construction company and kept doing so through college. It started off as mowing lawns but ended with full(mostly-full) control over jobs worth up to $10000 and up to 3-4 workers at a time. I don't miss that life but it did teach me how to work - and work efficiently.
+I started helping with yard work early and then quickly transitioned into helping with basic tasks at my uncle's construction company - I worked on and off with him through college. It started off as mowing lawns but ended with full(mostly-full) control over jobs worth up to $10000 and up to 3-4 workers at a time. I don't miss that life but it did teach me how to work - and work efficiently.
 
 ## West Chester University
 During college I was an average student at best. I spent more time relaxing and playing video games than I did in the library; I was never good at studying. I managed to graduate with a 3.2 GPA but failed to have any internships. 
