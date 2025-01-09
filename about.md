@@ -4,10 +4,10 @@ I come from a rather poor family. My parents were better off than theirs but it 
 
 That meant I had to grow up. 
 
-I started helping with yard work early and then quickly transitioned into helping with basic tasks at my uncle's construction company - I worked on and off with him through college. It started off as mowing lawns but ended with full(mostly-full) control over jobs worth up to $10000 and up to 3-4 workers at a time. I don't miss that life but it did teach me how to work - and work efficiently.
+I started helping with yard work early and then quickly transitioned into helping with basic tasks at my uncle's construction company - I worked on and off with him through college. It started off as mowing lawns but ended with some team management and control over jobs and a small crew. I don't miss that life but it did teach me how to work - and work efficiently.
 
 ## West Chester University
-During college I was an average student at best. I spent more time relaxing and playing video games than I did in the library; I was never good at studying. I managed to graduate with a 3.2 GPA but failed to have any internships. 
+During college I was an average student at best. I spent more time relaxing and playing video games than I did in the library - I was never good at studying. I managed to graduate with a 3.2 GPA but failed to have any internships. 
 
 ## Corporate Salesforce Trainer at Revature
 After graduation, I was without any glimspe of a job offer. I had begun Ubering and was getting ready to make the transition back to manual labor. Luckily for me I heard back from [Revature](revature.com). Like thousands of others, Revature's bootcamp gave me the platform I needed to enter the Software Engineering field as a Salesforce Developer. I finished at the top of my class and was offered an internal position to become a Corporate Trainer.
